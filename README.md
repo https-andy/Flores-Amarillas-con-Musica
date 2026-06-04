@@ -4,4 +4,11 @@ Una página web interactiva y animada inspirada en las flores amarillas. El proy
 
 ##Estructura del proyecto
 
-css/ img/ sound/ flower.html index.html main.js anim.js README.md
+css/
+img/
+sound/
+flower.html
+index.html
+main.js
+anim.js
+README.md
